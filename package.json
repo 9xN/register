@@ -20,7 +20,7 @@
   "author": "Akshay Nair <phenax5@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "jest": "^26.4.2",
     "node-fetch": "^2.6.1",
     "qs": "^6.9.4",
